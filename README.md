@@ -26,5 +26,7 @@ Delivey of computing services or storing, managing and accessing the data and pr
     ![Screenshot 2023-12-05 181044](https://github.com/Mragankk/AWS/assets/145200189/7323c83a-9e3e-47bb-8f8d-88dadee53af4)
 - ### Compute services ###
   -**EC2**- Elastic Compute cloud
-  -**ECS(Elastic conatiner services)/EKS for conatiner services
-  -**lambda**- serverless 
+  
+  -**ECS(Elastic conatiner services)/EKS** for conatiner services
+ 
+   -**lambda**- serverless 
