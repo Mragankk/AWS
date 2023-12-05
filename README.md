@@ -9,6 +9,7 @@ Delivey of computing services or storing, managing and accessing the data and pr
    - scalability and flexibility
    - cost savings
    - advanced security
+   - on time delivery
 - ### Public cloud vs Private cloud ###
 
   ![Screenshot 2023-12-05 175531](https://github.com/Mragankk/AWS/assets/145200189/0d15eb68-03ec-4587-865c-7aac09a19daf)
@@ -24,6 +25,11 @@ Delivey of computing services or storing, managing and accessing the data and pr
   3. **SAAS**- Software as a seervice
 
     ![Screenshot 2023-12-05 181044](https://github.com/Mragankk/AWS/assets/145200189/7323c83a-9e3e-47bb-8f8d-88dadee53af4)
+
+
+# AWS( AMAZON WEB SERVICES)
+A cloud computing platform that offers on-demand computing services such as virtual servers and storage that can be used to build and run applications and websites
+
 - ### Compute services ###
   -**EC2**- Elastic Compute cloud
   
@@ -40,5 +46,16 @@ Delivey of computing services or storing, managing and accessing the data and pr
    - **EFS**elastic file system
    - **glacier** Archival storage (cheapest storage service with no instant data pickup)
 
- 
-     ![Screenshot 2023-12-05 195007](https://github.com/Mragankk/AWS/assets/145200189/dbb7a28f-ab08-4d08-b2cb-262534ed794e)
+    ![Screenshot 2023-12-05 195007](https://github.com/Mragankk/AWS/assets/145200189/dbb7a28f-ab08-4d08-b2cb-262534ed794e)
+
+- ### Network services ###
+   - **VPC**- Virtual Priavte Cloud
+   - **Route 53**- Domain name service
+   - **Direct connect**
+     
+     ![Screenshot 2023-12-05 210522](https://github.com/Mragankk/AWS/assets/145200189/5c698ccc-ae0c-425b-a499-a2d2fd359044)
+
+
+
+
+# S3 #
