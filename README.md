@@ -59,3 +59,18 @@ A cloud computing platform that offers on-demand computing services such as virt
 
 
 # S3 #
+- **Security**
+  - user based- IAM policies
+  - resource based
+     - bucket policies
+     - bucket ACLs
+     - Object ACLs
+- **Public vs private accessible Buckets**
+- **Object versioning**
+- **State of the art in transit and at rest encryption**
+- **Infinitely scaling stoerage**
+- **buckets**
+- **Gloabally unique bucket names**
+- **object storage with durability of 11 9's, 99.999999999%**
+
+   ![Screenshot 2023-12-05 211654](https://github.com/Mragankk/AWS/assets/145200189/ddfe6e25-ea01-4489-9094-821c140f0ebd)
