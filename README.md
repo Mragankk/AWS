@@ -74,3 +74,28 @@ A cloud computing platform that offers on-demand computing services such as virt
 - **object storage with durability of 11 9's, 99.999999999%**
 
    ![Screenshot 2023-12-05 211654](https://github.com/Mragankk/AWS/assets/145200189/ddfe6e25-ea01-4489-9094-821c140f0ebd)
+- **Storage classes**
+   - amazon S3 standard- General purpose (cheaper than  buying  a pen drive)
+   - amazon S3 standard- infrequent Access(IA)
+   - amazon S3 Glacier Instant Retrieval (pick up data less frequently)
+   - amazon S3 glacier flexible Retrieval ( pick up data more frequently)
+   - amazon S3 Galcier deep archive ( rarely pickup data)
+   - amazon S3 glacier Intelligent tiering (old data automatically deleted)
+
+# EC2 #
+- **most popular AWS Offering**
+- **IAAS**
+- **provide rented virtual machine**
+- **it uses EBS and instance store to store data** ( in intstnaces if EC2 shut down then data will be lost)
+- **it uses ELB to distribute data**
+- **uses autoscaling for scaling purpose**
+
+  ## EC2 insance type ##
+  - m type (balanced RAM and CPU, used for general purpose)
+  - c type
+  - t type
+  - r type
+  - i type
+  - t type
+ 
+    ![Screenshot 2023-12-06 124138](https://github.com/Mragankk/AWS/assets/145200189/193cffe7-3d14-4e6f-a94c-98824bb994cd) ![Screenshot 2023-12-06 124152](https://github.com/Mragankk/AWS/assets/145200189/df7ff25c-2021-4b26-9f33-e5f5b0a8b33b)
