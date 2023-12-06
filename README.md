@@ -1,4 +1,4 @@
-# AWS
+![Screenshot 2023-12-06 124152](https://github.com/Mragankk/AWS/assets/145200189/363396ee-5bba-48c3-a2d7-2325877bcbea)# AWS
 INTRODUCTION TO CLOUD COMPUTING (AWS)
 
 ## CLOUD COMPUTING ##
@@ -92,10 +92,40 @@ A cloud computing platform that offers on-demand computing services such as virt
 
   ## EC2 insance type ##
   - m type (balanced RAM and CPU, used for general purpose)
-  - c type
-  - t type
-  - r type
-  - i type
-  - t type
+  - c type (provides CPU intensive)
+  - t type (provides burst capabilities)
+  - r type (provides RAM)
+  - i type (provides IOPS)
+- Establishes balance between
+   - compute
+   - memory
+   - networking
  
     ![Screenshot 2023-12-06 124138](https://github.com/Mragankk/AWS/assets/145200189/193cffe7-3d14-4e6f-a94c-98824bb994cd) ![Screenshot 2023-12-06 124152](https://github.com/Mragankk/AWS/assets/145200189/df7ff25c-2021-4b26-9f33-e5f5b0a8b33b)
+
+- **security groups and instances own firewall**
+- **several ports**
+   - 21-FTP
+   - 22-SSH
+   - 23-Telnet
+   - 53-DNS
+   - 80-HTTP
+   - 443-HTTPS
+   - 3306-MYSQL
+   - 3389-RDP
+  - **On-demand Instances**- short workload, predictable pricing, pay by second
+  - **Reserved**( ex- 1 to 3 years)- make a commitment of using service and ask for discount( about 72% of biling can be saved)
+  - **Spot Instances**- short workload, cheap,can lose instances(less reliable)
+  - **Dedicated hosts**- book an entire physical server, control instances placement, most expensive EC2
+  - **Dedsicated Instances**- no other custoemrs will share your hardware
+
+#  ELB #
+- **implementation of horizontal scaling**
+- **Required for high availablity**
+- **TYPES OF LOAD BALANCER**
+   - Classic load balancer- layer 4 & 7
+   - Application Load balancer- layer 7
+   - Network load balancer- Layer 4
+     
+
+
