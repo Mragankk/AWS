@@ -1,4 +1,4 @@
-![Screenshot 2023-12-06 124152](https://github.com/Mragankk/AWS/assets/145200189/363396ee-5bba-48c3-a2d7-2325877bcbea)# AWS
+# AWS
 INTRODUCTION TO CLOUD COMPUTING (AWS)
 
 ## CLOUD COMPUTING ##
