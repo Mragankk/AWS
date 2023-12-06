@@ -126,6 +126,8 @@ A cloud computing platform that offers on-demand computing services such as virt
    - Classic load balancer- layer 4 & 7
    - Application Load balancer- layer 7
    - Network load balancer- Layer 4
+ 
+     ![Screenshot 2023-12-06 232124](https://github.com/Mragankk/OOPS/assets/145200189/052b09d9-bf48-40de-b670-f31d935542f1)
      
 
 
