@@ -127,7 +127,22 @@ A cloud computing platform that offers on-demand computing services such as virt
    - Application Load balancer- layer 7
    - Network load balancer- Layer 4
  
+   - **Apache web server works on layer 7 , using single apache server one can deploy multiple applications on different ports based on paths (URLbased) (virtual hosts) . virtual hosting can only work on layer 7**
+Application based LB
+ 
      ![Screenshot 2023-12-06 232124](https://github.com/Mragankk/OOPS/assets/145200189/052b09d9-bf48-40de-b670-f31d935542f1)
      
 
+- **public subnet** : can receive traffic from outerworld
+- **private subnet** : cannot receive traffic from outerworld but may or may not send traffic to outerworld
 
+## Application Based LOAD BALANCER ##
+- **key pair** : kind of like a password (public key is username; private key is password)
+  - PPK (PuTTY Private Key) and PEM (Privacy Enhanced Mail) are two file formats that are commonly used for SSH and SSL/TLS connections. While PPK files are primarily used with PuTTY on Windows, PEM files are more widely supported and can be used with various tools and platforms
+- **security groups** : A security group controls the traffic that is allowed to reach and leave the resources that it is associated with. For example, after you associate a security group with an EC2 instance, it controls the inbound and outbound traffic for the instance. When you create a VPC, it comes with a default security group. (acts as a firewall)
+
+   ![Screenshot 2023-12-07 184851](https://github.com/Mragankk/AWS/assets/145200189/de0eb6f3-70b6-4391-a09e-4b6e4ce3fee8)
+
+   ![Screenshot 2023-12-07 184941](https://github.com/Mragankk/AWS/assets/145200189/f5965d42-6b05-4b25-812f-d32beeaea53a)
+
+   ![Screenshot 2023-12-07 184956](https://github.com/Mragankk/AWS/assets/145200189/62a97191-15c9-4778-800b-46fb1bc34404)
