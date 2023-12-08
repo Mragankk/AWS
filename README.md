@@ -96,6 +96,9 @@ A cloud computing platform that offers on-demand computing services such as virt
   - t type (provides burst capabilities)
   - r type (provides RAM)
   - i type (provides IOPS)
+ 
+    ![Screenshot 2023-12-08 090735](https://github.com/Mragankk/AWS/assets/145200189/59af4c07-f0e9-4ee0-be8d-8e848cd66be2)
+
 - Establishes balance between
    - compute
    - memory
